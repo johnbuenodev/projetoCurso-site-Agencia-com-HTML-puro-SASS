@@ -1,0 +1,93 @@
+
+
+
+
+instalar o google fonts no projeto
+
+https://fonts.google.com/specimen/Lato?query=Lato
+
+Lato 300
+
+Lato light 300
+
+bold 700
+
+bold 700 italic
+
+black 900
+
+
+//
+
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,300;0,700;0,900;1,300;1,700&display=swap" rel="stylesheet">
+
+
+////
+
+https://cdnjs.com/libraries/font-awesome
+
+ACESSAR O CDNjs.com
+
+ font-awesome
+
+   
+ <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" integrity="sha512-1ycn6IcaQQ40/MKBW2W4Rhis/DbILU74C1vSrLJxCq57o941Ym01SwNsOMqvEBFlcgUa6xLiPY/NS5R+E6ztJQ==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+
+<i class="fas fa-bars" ></i>
+
+///
+
+
+
+
+ tag header
+
+
+ header + tab
+
+
+///
+
+main.services-container + tab   //criar a main já com a classe
+
+//
+
+div.services-card-container + tab 
+
+.services-card-container + enter cria div 
+
+
+até agora o resultado
+
+<main class="services-container">
+        <h2>O que fazemos</h2>
+        <div class="services-card-container">
+            <div class="services-card">
+                
+            </div>
+        </div>
+    </main>
+
+
+
+i.fab.fa-buffer + enter
+
+<i></i>
+
+//criar o icon
+
+////
+
+h3 + enter criar a <h3></h3>
+
+p + enter <p></p>
+
+<p>loren</p> digitar loren e dar enter ele vai completar com o texto loren ipsum
+
+////
+
+
