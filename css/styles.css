@@ -1,10 +1,16 @@
-h1 {
-  color: blue;
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
   font-family: "Lato";
 }
 
-i {
-  color: blue;
+a {
+  text-decoration: none;
+}
+
+li {
+  list-style: none;
 }
 
 /*# sourceMappingURL=styles.css.map */
