@@ -1,5 +1,5 @@
 
-
+sass --watch sass/styles.sass css/styles.css
 
 
 instalar o google fonts no projeto
@@ -44,7 +44,7 @@ ACESSAR O CDNjs.com
 
 
 
- tag header
+tag header
 
 
  header + tab
@@ -76,8 +76,6 @@ até agora o resultado
 
 i.fab.fa-buffer + enter
 
-<i></i>
-
 //criar o icon
 
 ////
@@ -91,3 +89,6 @@ p + enter <p></p>
 ////
 
 
+
+
+///
