@@ -64,10 +64,51 @@
         margin-top: 1rem
         @extend %title-text-shadow
 
-            
+//services
+
+.services-container
+    text-align: center
+    padding: 2rem
+    margin-bottom: 2rem
+
+    h2
+        @extend %section-title
+        
+    .services-card-container
+        display: flex
+        flex-wrap: wrap  
+        justify-content: space-around
+        padding: 2rem
+
+        .services-card
+            width: 30%
+            margin: 1%
+            padding: 2rem
+            border: 1px solid $color-border 
+            transition: .3s
+
+            i
+                color: $color-primary
+                font-size: 4rem
+                display: block
+                margin-top: 1rem
+                margin-bottom: 1.5rem
+
+            h3
+                font-size: 1.5rem
+                margin-bottom: 1rem
+
+            p
+                color: $color-text
+
+            &:hover
+                border: transparent
+                box-shadow: 0 1px 10px $color-border    
+                    
 
 
-    //footer
+
+//footer
 
 footer
     background-color: $background-footer
@@ -115,4 +156,3 @@ footer
 
         p
             margin-bottom: 1rem
-            
